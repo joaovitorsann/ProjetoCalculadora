@@ -120,7 +120,7 @@ Cada teste exibe no console as **entradas utilizadas**, o **resultado esperado**
 
 ## 🔗 Link do Repositório
 
-https://github.com/SEU-USUARIO/projeto_calculadora
+[https://github.com/SEU-USUARIO/projeto_calculadora](https://github.com/joaovitorsann/ProjetoCalculadora)
 
 ---
 
